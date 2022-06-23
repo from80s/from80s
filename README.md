@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/blackfrom80s"><img src="[https://api.daily.dev/devcards/68c2f97ae60041aa81e658554bb1906e.png?r=4jd](https://github.com/from80s/from80s/blob/main/devcard.svg)" width="400" alt="Black's Dev Card"/></a>
 
 <!--
 **from80s/from80s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
