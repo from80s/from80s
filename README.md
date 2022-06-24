@@ -13,6 +13,8 @@
   
   _Bye then. See you later!_
   
+  <br>
+  
   <div id="badges" align="center">    
     <a href="https://twitter.com/blackfrom80s" taget="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
@@ -28,7 +30,7 @@
 
 <div id="languages&tools" align="center">
   <br>
-  <img src="https://github.com/from80s/from80s/blob/main/Linguagens-23-06-2022%20(2).png" alt="linguagens" height="80" />  
+  <img src="https://github.com/from80s/from80s/blob/main/Linguagens-24-06-2022.gif" alt="linguagens" height="80" />  
   <br>
   <img src="https://github.com/from80s/from80s/blob/main/html5-plain-wordmark.svg" alt="html5 logo" height="40" width="auto" />&nbsp;
   <img src="https://github.com/from80s/from80s/blob/main/markdown-original.svg" alt="markdown logo" height="40" width="auto" />&nbsp;
@@ -40,7 +42,7 @@
   <img src="https://github.com/from80s/from80s/blob/main/handlebars-original.svg" alt="handlebars logo" height="40" width="auto" />&nbsp;  
   <br>
   <br>    
-  <img src="https://github.com/from80s/from80s/blob/main/Frameworks-23-06-2022.png" alt="frameworks" height="80" />
+  <img src="https://github.com/from80s/from80s/blob/main/Frameworks-24-06-2022.gif" alt="frameworks" height="80" />
   <br>  
   <img src="https://github.com/from80s/from80s/blob/main/tailwindcss-plain.svg" alt="tailwind logo" height="40" width="auto" />&nbsp;    
   <img src="https://github.com/from80s/from80s/blob/main/jquery-plain.svg" alt="jquery logo" height="40" width="auto" />&nbsp;
@@ -49,7 +51,7 @@
   <img src="https://github.com/from80s/from80s/blob/main/ember-original-wordmark.svg" alt="ember logo" height="40" width="auto" />&nbsp;
   <br>
   <br>  
-  <img src="https://github.com/from80s/from80s/blob/main/Ferramentas-23-06-2022%20(2).png" alt="ferramentas" height="80" />
+  <img src="https://github.com/from80s/from80s/blob/main/Ferramentas-24-06-2022.gif" alt="ferramentas" height="80" />
   <br>
   <img src="https://github.com/from80s/from80s/blob/main/vscode-original.svg" alt="vs code logo" height="40" width="auto" />&nbsp;    
   <img src="https://github.com/from80s/from80s/blob/main/atom-original.svg" alt="atom logo" height="40" width="auto" />&nbsp;
