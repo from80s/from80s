@@ -13,9 +13,9 @@
   
   _Bye then. See you later!_
   
-  <br>
-  
-  <div id="badges" align="center">    
+  <div id="badges" align="center">
+    <img src="https://github.com/from80s/from80s/blob/main/zombiebaloons.gif" height="150" alt="zumbi segurando balões de aniversário enquanto caminha" />
+    <br>
     <a href="https://twitter.com/blackfrom80s" taget="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
     </a>
@@ -29,6 +29,7 @@
 </div>
 
 <div id="languages&tools" align="center">
+  <br>
   <br>
   <img src="https://github.com/from80s/from80s/blob/main/Linguagens-24-06-2022.gif" alt="linguagens" height="80" />  
   <br>
