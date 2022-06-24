@@ -74,12 +74,19 @@
 <div id="more" align="center">
   <br>
   <br>
-  <img src="https://github.com/from80s/from80s/blob/main/lapide.gif" width="120" alt="lápide com uma mão zumbi saindo do solo" />
+  <!--<img src="https://github.com/from80s/from80s/blob/main/lapide.gif" width="125" alt="lápide com uma mão zumbi saindo do solo" />&nbsp;&nbsp;&nbsp;-->
   <img src="https://github.com/from80s/from80s/blob/main/policeOfficer_zombie.gif" width="120" alt="policial zumbi com arma empunhada" />
+  <img src="https://github.com/from80s/from80s/blob/main/runrunrun.gif" width="120" alt="homem correndo apavorado" />
   
   Uma outra paixão minha, é escrever. Adoro reservar um tempo para escrever artigos. O ato de planejar e executar a confecção de artigos, me leva a mergulhar cada vez mais fundo no conhecimento sobre um determinado tema. Isso me ajuda a identificar o meu nível de conhecimento, meus pontos fortes e os a melhorar. Escrever é um excelente exercício, ajuda a manter a mente afiada e o conhecimento sempre atualizado. Recomendo!
   
-  Aproveita e dá um confere nos meus artigos publicados 👇
+  Aproveita e dá um confere nos meus artigos publicados!
+  
+  [Medium](https://blackfrt.medium.com/)
+  |
+  [Tableless](https://tableless.com.br/authors/thiago-teles/)
+  <br>
+  <img src="https://github.com/from80s/from80s/blob/main/floatbrainleft.gif" width="80" alt="cérebro flutuando" />
 </div>
 
 <!--
