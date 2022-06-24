@@ -1,5 +1,5 @@
 <div id="aboutMe" align="center">
-  <img src="https://github.com/from80s/from80s/blob/main/Hello-WOrld-23-06-2022.gif" alt="hello world" width="400"/>
+  <img src="https://github.com/from80s/from80s/blob/main/greetings.gif" alt="hello world" width="400"/>
   
   _Olá, __Black__ falando! Seja bem vindo ao meu perfil._
   
