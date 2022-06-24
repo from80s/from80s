@@ -71,9 +71,19 @@
   </div>    
 </div>
 
-<!--<a href="https://app.daily.dev/blackfrom80s"><img src="https://github.com/from80s/from80s/blob/main/devcard.svg" align="right" width="250" alt="Black's Dev Card"/></a>-->
+<div id="more" align="center">
+  <br>
+  <br>
+  <img src="https://github.com/from80s/from80s/blob/main/lapide.gif" width="120" alt="lápide com uma mão zumbi saindo do solo" />
+  <img src="https://github.com/from80s/from80s/blob/main/policeOfficer_zombie.gif" width="120" alt="policial zumbi com arma empunhada" />
+  
+  Uma outra paixão minha, é escrever. Adoro reservar um tempo para escrever artigos. O ato de planejar e executar a confecção de artigos, me leva a mergulhar cada vez mais fundo no conhecimento sobre um determinado tema. Isso me ajuda a identificar o meu nível de conhecimento, meus pontos fortes e os a melhorar. Escrever é um excelente exercício, ajuda a manter a mente afiada e o conhecimento sempre atualizado. Recomendo!
+  
+  Aproveita e dá um confere nos meus artigos publicados 👇
+</div>
 
 <!--
+<a href="https://app.daily.dev/blackfrom80s"><img src="https://github.com/from80s/from80s/blob/main/devcard.svg" align="right" width="150" alt="Black's Dev Card"/></a>
 **from80s/from80s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
