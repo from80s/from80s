@@ -87,6 +87,10 @@
   [Tableless](https://tableless.com.br/authors/thiago-teles/)
   <br>
   <img src="https://github.com/from80s/from80s/blob/main/floatbrainleft.gif" width="80" alt="cérebro flutuando" />
+      
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=from80s)](https://github.com/anuraghazra/github-readme-stats)
+    
+  ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=from80s)  
 </div>
 
 <!--
