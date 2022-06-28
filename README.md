@@ -19,6 +19,9 @@
     <a href="https://twitter.com/blackfrom80s" taget="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
     </a>
+    <a href="https://codepen.io/blackfrom80s" taget="_blank">
+      <img src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="Codepen Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/thiago-teles-86192321/" target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
     </a>    
