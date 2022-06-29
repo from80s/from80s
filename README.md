@@ -85,7 +85,7 @@
   
   Aproveita e dá um confere nos meus artigos publicados!
   
-  [Medium](blackfrom80s.medium.com)
+  [Medium](https://blackfrom80s.medium.com/)
   |
   [Tableless](https://tableless.com.br/authors/thiago-teles/)
   <br>
