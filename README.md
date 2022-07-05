@@ -1,4 +1,4 @@
-<div id="aboutMe" align="center">
+<div id="aboutMe" align="center">  
   <img src="https://github.com/from80s/from80s/blob/main/greetings.gif" alt="hello world" width="400"/>
   
   _Olá, __Black__ falando! Seja bem vindo ao meu perfil._
@@ -93,7 +93,12 @@
       
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=from80s)](https://github.com/anuraghazra/github-readme-stats)
     
-  ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=from80s)  
+  ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=from80s)
+  
+  ## #DevCard
+  Um dos meus passatempos favoritos é ler artigos. Além de me entreter, ajuda a me manter sempre atualizado com o que está rolando de novo no mundo dev.
+  
+  <a href="https://app.daily.dev/blackfrom80s"><img src="https://api.daily.dev/devcards/68c2f97ae60041aa81e658554bb1906e.png?r=l8c" width="250" alt="Black's Dev Card"/></a>
 </div>
 
 <!--
