@@ -3,7 +3,7 @@
   
   _Olá, __Black__ falando! Seja bem vindo ao meu perfil._
   
-  Sou desenvolvedor front end pleno com mais de 15 anos de experiência. Já desenvolvi interfaces e experiências para softwares governamentais, websites, apps e jogos. Atualmente trabalho para a Netmake desenvolvendo o <a href="https://scriptcase.net/" target="_blank">Scriptcase</a> - uma ferramenta RAD.
+  Sou desenvolvedor front end pleno com mais de 15 anos de experiência. Já desenvolvi interfaces e experiências para softwares governamentais, websites, apps e jogos.
   
   Sou defensor dos padrões de usabilidade e acessibilidade no meio digital, e um profundo amante da JavaScript.
   
